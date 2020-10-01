@@ -7,3 +7,6 @@ I don't feel like writing documentation, so here are a couple things. Take a loo
 `draw_lights()` is the function for drawing lights with shadows.
 
 `draw_raw_lights()` draws without shadows.
+
+2020 edit:
+Please don't use this. It's old and garbage.
