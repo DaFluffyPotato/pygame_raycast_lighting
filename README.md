@@ -1,4 +1,4 @@
-# pygame_shaders
+# pygame_raycast_lighting
 
 I don't feel like writing documentation, so here are a couple things. Take a look at the code if you want to figure it out.
 
